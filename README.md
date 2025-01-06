@@ -1,1 +1,1 @@
-Este modpack tiene como funcion remplazar a optifine replicando sus funciones y ademas agregando nuevas ,Por lo momentos esta en 1.21.4 despues si recibe mucho apoyo voy a hacerlo para casi todas las versiones anteriores
+Este modpack tiene como funcion remplazar a optifine replicando sus funciones y ademas agregando nuevas,por lo momentos esta en 1.21.4 despues si recibe mucho apoyo voy a hacerlo para casi todas las versiones anteriores
