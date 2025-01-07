@@ -2,24 +2,26 @@ Este modpack tiene como función reemplazar a optifine replicando sus funciones 
 
 MODS:
 
-Continuity https://www.curseforge.com/minecraft/mc-mods/continuity
-Entity Culling https://www.curseforge.com/minecraft/mc-mods/entityculling su API es Entity Model Features https://www.curseforge.com/minecraft/mc-mods/entity-model-features
-Fabric API https://www.curseforge.com/minecraft/mc-mods/fabric-api
-Fabric Language Kotlin https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin
-In-Game Account Switcher https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher 
-Iris Shaders  https://www.curseforge.com/minecraft/mc-mods/irisshaders
-Lithium  https://www.curseforge.com/minecraft/mc-mods/lithium
-MiniHUD  https://www.curseforge.com/minecraft/mc-mods/minihud Y su complemento MaLiLib https://www.curseforge.com/minecraft/mc-mods/malilib
-ModMenu https://www.curseforge.com/minecraft/mc-mods/modmenu
-ReplayMod https://www.replaymod.com
-Zoomifyhttps://www.curseforge.com/minecraft/mc-mods/zoomify
+Continuity https://www.curseforge.com/minecraft/mc-mods/continuity                                                                                                                                                                                                               
+Entity Culling https://www.curseforge.com/minecraft/mc-mods/entityculling su API es Entity Model Features https://www.curseforge.com/minecraft/mc-mods/entity-model-features                                                                                                     
+Fabric API https://www.curseforge.com/minecraft/mc-mods/fabric-api                                                                                                                                                                                                               
+Fabric Language Kotlin https://www.curseforge.com/minecraft/mc-mods/fabric-language-kotlin                                                                                                                                                                                   
+In-Game Account Switcher https://www.curseforge.com/minecraft/mc-mods/in-game-account-switcher                                                                                                                                                                                   
+Iris Shaders  https://www.curseforge.com/minecraft/mc-mods/irisshaders                                                                                                                                                                              
+Lithium  https://www.curseforge.com/minecraft/mc-mods/lithium                                                                                                                                                                                                                    
+MiniHUD  https://www.curseforge.com/minecraft/mc-mods/minihud Y su API MaLiLib https://www.curseforge.com/minecraft/mc-mods/malilib                                                                                                                                              
+ModMenu https://www.curseforge.com/minecraft/mc-mods/modmenu                                                                                                                                                                                                                     
+ReplayMod https://www.replaymod.com                                                                                                                                                                                                                                              
+Zoomify https://www.curseforge.com/minecraft/mc-mods/zoomify                                                                                                                                                                                                                     
+
 Sodium y sus 2 mejoras:
 
-Sodium https://www.curseforge.com/minecraft/mc-mods/sodium
-Sodium Extra https://www.curseforge.com/minecraft/mc-mods/sodium-extra
-Reese's Sodium Options https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options
+Sodium https://www.curseforge.com/minecraft/mc-mods/sodium                                                                                                                                                                                                                       
+Sodium Extra https://www.curseforge.com/minecraft/mc-mods/sodium-extra                                                                                                                                                                                                           
+Reese's Sodium Options https://www.curseforge.com/minecraft/mc-mods/reeses-sodium-options                                                                                                                                                                                        
+
 Resource Packs:
 
-Fresh Animations https://www.curseforge.com/minecraft/texture-packs/fresh-animations
-Translations for Sodium  https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium
-Visible Ores  https://www.curseforge.com/minecraft/texture-packs/visible-ores
+Fresh Animations https://www.curseforge.com/minecraft/texture-packs/fresh-animations                                                                                                                                                                                             
+Translations for Sodium  https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium                                                                                                                                                                              
+Visible Ores  https://www.curseforge.com/minecraft/texture-packs/visible-ores                                                                                                                                                                                                    
