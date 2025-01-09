@@ -23,5 +23,4 @@ Reese's Sodium Options https://www.curseforge.com/minecraft/mc-mods/reeses-sodiu
 Resource Packs:
 
 Fresh Animations https://www.curseforge.com/minecraft/texture-packs/fresh-animations                                                                                                                                                                                             
-Translations for Sodium  https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium                                                                                                                                                                              
-Visible Ores  https://www.curseforge.com/minecraft/texture-packs/visible-ores                                                                                                                                                                                                    
+Translations for Sodium  https://www.curseforge.com/minecraft/texture-packs/translations-for-sodium                                                                                                                                                                            
